@@ -1,3 +1,5 @@
+## This is my first project on GitHub and is really just a download and upload...for now
+
 ### Well hello there!
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
